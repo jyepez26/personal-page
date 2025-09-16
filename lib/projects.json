@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Premier League Clustering Project",
+        "year": "2025",
+        "image": "./img/prem_project_cover.jpg",
+        "url": "https://jyepez26.github.io/Prem-Cluster-Project/",
+        "description": "In this project, I looked at data on all forwards in the current Premier League season so far, and determining different player types using a machine learning algorithm knowns as KNMeans clustering."
+    },
+    {
+        "title": "DSC 106 Final Project",
+        "year": "2025",
+        "image": "./img/heart_rate_cover.jpg",
+        "url": "https://jyepez26.github.io/final-project-106/",
+        "description": "In this project, I worked with my peers to analyze a dataset of data filled will stress metrics of a small group of ten students taking three different exams. We sought to answer to question \"How does stress impact students' exam performance?\", displaying our findings through various interactive visualizations and models."
+    },
+    {
+        "title": "Energy Data Analysis Project",
+        "year": "2024",
+        "image": "./img/power_outage_cover.webp",
+        "url": "https://jyepez26.github.io/Energy-Data-Analysis-Project/",
+        "description": "Throughout this project, I explored a dataset on major power outages in different states throughout the U.S. containing data from January 2000-July 2016. I conducted exploratory data analysis, hyppthesis tests and ultimately built a predictive model to predict the cause of a power outage."
+    },
+    {
+        "title": "Climate Project",
+        "year": "2025",
+        "image": "./img/hurricane_cover.jpg",
+        "url": "https://jyepez26.github.io/Climate-Project/",
+        "description": "In this project, I researched extreme weather events in order to find trends, conduct a hypothesis test, and create a predictive model for future weather events. This project was a good learning experience in bad datasets."
+    }
+]
